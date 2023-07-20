@@ -42,7 +42,7 @@ You should already have Docker and VSCode with the remote containers plugin inst
 
 * [docker](https://docs.docker.com/engine/install/)
 * [vscode](https://code.visualstudio.com/)
-* [vscode remote containers plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+* [obsolete? TM is using Dev Containers plugin] [vscode remote containers plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ### Get the template
 
